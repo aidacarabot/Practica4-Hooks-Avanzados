@@ -1,9 +1,17 @@
-# React + Vite
+# ⚙️ React Advanced Hooks Calculator & Timer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este es un proyecto desarrollado con React + Vite donde se implementan los Hooks avanzados de React (useState, useEffect, useRef, useMemo, useCallback, useContext, React.memo, Custom Hooks).
 
-Currently, two official plugins are available:
+## ✨ Características
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# Practica4-Hooks-Avanzados
+✅ Calculadora funcional con historial y operaciones básicas (+, -, *, /).
+
+✅ Temporizador en tiempo real que se actualiza cada segundo.
+
+✅ Cambio de tema (Light/Dark Mode) utilizando useContext.
+
+✅ Uso de React.memo y useCallback para optimización del rendimiento.
+
+✅ Custom Hook useCurrentTime para manejar el reloj en tiempo real.
+
+✅ Interfaz responsive y moderna con CSS optimizado.
